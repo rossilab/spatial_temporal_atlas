@@ -1,4 +1,4 @@
-# Welcome to Rossi lab code repository!
+# Welcome to the Rossi lab code repository!
 The repository contains processing and analysis scripts of all datasets associated with the manuscript "Spatiotemporal signaling underlies progressive vascular rarefaction in myocardial infarction" by Tung et al., 2023 (under revision).
 
 Processed datasets can be probed on Integrated Single-cell Navigation Portal (ISNAP), a modular bioinformatics platform for publishing biological data that is compatible with numerous R workflows, using this [link](https://isnap.rossilab.dev/GSE206787/).
